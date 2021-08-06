@@ -17,7 +17,7 @@
 
    (个人尝试了pyinstaller，可打包之后的exe或多或少都会有点问题)
 
-   有关Python打包exe文件的方法的博客: https:/lzhuanlan.zhihu.com/p/355304094⒉
+   有关Python打包exe文件的方法的博客: <https://zhuanlan.zhihu.com/p/355304094>
 
 2. 双击哈夫曼编译码器.exe即可
 
